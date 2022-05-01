@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📝 I regularly write articles on [This blog](https://user64bit.blogspot.com/)
+- 📝 I regularly write articles on [This blog](https://apnacodingadda.blogspot.com/)
 
 - 💬 Ask me about **Python , C++**
 
