@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [This blog](https://apnacodingadda.blogspot.com/)
 
-- 💬 Ask me about **['Python','C++','Open-source','DSA','git','Linux']**
+- 💬 Ask me about **['Python','C++','JavaScript','Open-source','DSA','git','Linux']**
 
 ## Till Now:
 ![Arth's GitHub stats](https://github-readme-stats.vercel.app/api?username=arth2002&show_icons=true&theme=radical&hide_border=true)
