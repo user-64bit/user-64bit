@@ -5,7 +5,7 @@
 
 
 ## Work in Progress:
-- 🔭 I’m currently Improving my **DSA skills**
+- 🔭 I’m currently Improving my **Problem-solving skills**
 
 - 🌱 I’m currently learning **Networking and Open-Source**
 
