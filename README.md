@@ -14,4 +14,4 @@
 - [Tailwind Site](https://github.com/user-64bit/Website-Clone-Tailwind) - A website using pure TailwindCSS
 - [FlashCards](https://github.com/user-64bit/Flashcards) - Make Flashcards which helps you to organized and take notes.
 - [ChatRoom using Socket](https://github.com/user-64bit/ChatRoom-Using-Socket-Programming-in-Python) - A CLI Chatroom using Socket Programming in Python
-
+- [Streamify](https://github.com/user-64bit/Streamify) - A frontend for Music Streaming Service
