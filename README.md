@@ -40,3 +40,15 @@
   <a href="https://get-git-sigma.vercel.app/user-64bit">🌟 Check out My Get Git Profile 🌟</a><br>
   <i>Where there's more weird stuff I probably forgot to list here</i>
 </p>
+
+---
+<p align="center">
+  <h3 align="center">💰 Fuel My Coding Chaos 💸</h3>
+  <p align="center"><i>If my digital shenanigans brought you joy, consider tossing some crypto my way!</i><br>
+  <small>Every satoshi helps keep the caffeine flowing and the keyboard clacking</small></p>
+  <p align="center">
+    <a href="https://daonation.xyz/user64bit" target="_blank">
+      <img src="user64bit.png" width="400" alt="user64bit" style="display: block; margin: 0 auto;">
+    </a>
+  </p>
+</p>
