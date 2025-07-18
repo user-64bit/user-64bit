@@ -1,74 +1,28 @@
 <p align="center">
-  <img src="hello.gif">
-  <h1 align="center">✨ POW! BANG! ZOOM! ✨</h1>
-  <p align="center"><i>Cool stuff I've built while procrastinating on actual work</i></p>
+  <img src="hello.gif" alt="Banner">
 </p>
 
-## 🚀 My Digital Playground 🎮
+<h1 align="center">🛠️ POW</h1>
 
-Welcome to my playground of Web3, crypto, and innovative projects! Here are my top creations:
+---
 
-### 🤖 [**Wallet-GPT**](https://github.com/user-64bit/wallet-gpt)
-A revolutionary **crypto wallet** with an AI assistant. Simply tell Wallet-GPT to send SOL, and it makes it happen!
+| Project        | Description | Tech Stack | Live Demo | Repo |
+|----------------|-------------|------------|-----------|------|
+| **Wallet-GPT** | AI-powered wallet that executes crypto commands like “send 0.1 SOL” | Next.js, OpenAI, Solana, TS, Tailwind | [wallet-gpt](https://wallet-gpt.arthprajapati.com) | [GitHub](https://github.com/user-64bit/wallet-gpt) |
+| **PollChain** | Fully decentralized voting system on Solana | Rust, Solana, Next.js, TS, Tailwind | [pollchain](https://pollchain.arthprajapati.com) | [GitHub](https://github.com/user-64bit/poll-chain) |
+| **DAOnation** | Web3 micro-payment platform for creators | Solana, Next.js, TS, Tailwind | [daonation.xyz](https://daonation.xyz) | [GitHub](https://github.com/user-64bit/DAOnation) |
+| **Notebook** | Open-source Notion alternative with privacy focus | Convex, Next.js, TS, Tailwind | [notebook](https://notebook.arthprajapati.com) | [GitHub](https://github.com/user-64bit/notebook) |
+| **Get Git** | GitHub activity explorer with fancy UI | GitHub API, Next.js | [get-git](https://get-git.arthprajapati.com) | [GitHub](https://github.com/user-64bit/Get-Git) |
+| **Suchi** | Rust CLI for organizing thoughts and tasks | Rust | [crates.io](https://crates.io/crates/suchi) | [GitHub](https://github.com/user-64bit/suchi) |
+| **CryptoCompass** | Multi-chain asset tracker | Next.js, TS, Tailwind | — | [GitHub](https://github.com/user-64bit/CryptoCompass) |
+| **CodeRunner** | Minimal in-browser REPL for quick testing | React, Express, Tailwind | — | [GitHub](https://github.com/user-64bit/CodeRunner) |
+| **Streamify** | Spotify-style music streaming experiment | Next.js, Tailwind | — | [GitHub](https://github.com/user-64bit/Streamify) |
+| **Don’t Die Agent** | AI-powered health tracking inspired by longevity | Next.js, OpenAI, Tailwind | — | [GitHub](https://github.com/user-64bit/dd-agent) |
 
-- **Tech Stack**: Next.js, Typescript, Tailwind CSS, OpenAI
-- **Live Demo**: [wallet-gpt](https://wallet-gpt.arthprajapati.com/)
+---
 
-### 🗳️ [**PollChain**](https://github.com/user-64bit/poll-chain)
-A decentralized **polling system** ensuring voting transparency. Create and vote on polls securely on the blockchain.
 
-- **Tech Stack**: Next.js, Solana, Rust, Typescript, Tailwind CSS
-- **Live Demo**: [pollchain](https://pollchain.arthprajapati.com)
-
-### 🧩 [**DAOnation**](https://github.com/user-64bit/DAOnation)
-"Buy me a coffee" reimagined for **Web3**! A platform for creators to receive micro-payments and tips using cryptocurrencies.
-
-- **Tech Stack**: Next.js, Solana, Web3, Typescript, Tailwind CSS
-- **Live Demo**: [daonation.xyz](https://daonation.xyz)
-
-### 📓 [**Notebook**](https://github.com/user-64bit/notebook)
-An open-source, feature-packed alternative to Notion. Keep your notes organized without subscription fees.
-
-- **Tech Stack**: Next.js, Convex, Typescript, Tailwind CSS
-- **Live Demo**: [notebook](https://notebook.arthprajapati.com)
-
-### 🐙 [**Get Git**](https://github.com/user-64bit/Get-Git)
-View detailed GitHub profiles in a **fancy** UI. Perfect for developer stalking (responsibly)!
-
-- **Tech Stack**: Next.js, GitHub API
-- **Live Demo**: [getgit](https://get-git.arthprajapati.com)
-
-### 📝 [**Suchi**](https://github.com/user-64bit/suchi)
-A **Rust-powered CLI** for managing and organizing thoughts. For when your ideas deserve more than a basic note app.
-
-- **Tech Stack**: Rust
-- **Crates**: [Suchi](https://crates.io/crates/suchi)
-
-## 🌟 More Cool Projects
-
-### 🧭 [**CryptoCompass**](https://github.com/user-64bit/CryptoCompass)
-Track your crypto assets across blockchain networks. Your digital treasure map in the crypto wilderness.
-
-- **Tech Stack**: Next.js, Typescript, Tailwind CSS
-
-### 💻 [**CodeRunner**](https://github.com/user-64bit/CodeRunner)
-Instant code execution platform for quick tests and prototyping. Write and run code without any setup.
-
-- **Tech Stack**: Express, React, Tailwind CSS
-
-### 🎵 [**Streamify**](https://github.com/user-64bit/Streamify)
-A Spotify-like music streaming service with unique twists.
-
-- **Tech Stack**: Next.js, Tailwind CSS
-
-### 🧬 [**Don't Die Agent**](https://github.com/user-64bit/dd-agent)
-Health tracking app inspired by longevity research. Because why not aim to live forever?
-
-- **Tech Stack**: Next.js, OpenAI, Tailwind CSS
-
-## 💰 Support My Coding Journey
-
-If my digital adventures brought you joy, consider supporting my caffeine-powered coding:
+## 💰 Support
 
 <p align="center">
   <a href="https://daonation.xyz/user64bit" target="_blank">
@@ -76,4 +30,9 @@ If my digital adventures brought you joy, consider supporting my caffeine-powere
   </a>
 </p>
 
-[🌟 OpenSource Contributions on My Get Git Profile 🌟](https://get-git-sigma.vercel.app/user-64bit)
+---
+
+## 🔎 More?
+
+> View all my PRs, reviews & open-source work on [Get Git](https://get-git-sigma.vercel.app/user-64bit)
+
