@@ -21,17 +21,6 @@
 
 ---
 
-
-## 💰 Support
-
-<p align="center">
-  <a href="https://daonation.xyz/user64bit" target="_blank">
-    <img src="user64bit.png" width="400" alt="Support My Coding" style="display: block; margin: 0 auto;">
-  </a>
-</p>
-
----
-
 ## 🔎 More?
 
 > View all my PRs, reviews & open-source work on [Get Git](https://get-git-sigma.vercel.app/user-64bit)
