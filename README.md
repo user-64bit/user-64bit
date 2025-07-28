@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="hello.gif" alt="Banner">
-</p>
+Full Stack Developer focused on building minimal, impactful, and privacy-first products using Rust, Solana, Next.js, and AI.
+Creator of DAOnation, Wallet-GPT, and Poll Chain — blending decentralization, real-time UX, and intelligent automation.
+Obsessed with clean architecture, developer tooling, and shaping the future of open, user-owned platforms.
 
 <h1 align="center">🛠️ POW</h1>
 
