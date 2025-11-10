@@ -6,13 +6,13 @@ Obsessed with clean architecture, developer tooling, and shaping the future of o
 
 ---
 
-| Project        | Description | Tech Stack | Live Demo | Repo |
+| Project        | Description | Tech Stack | Live/Demo | Repo |
 |----------------|-------------|------------|-----------|------|
-| **Wallet-GPT** | AI-powered wallet that executes crypto commands like “send 0.1 SOL” | Next.js, OpenAI, Solana, TS, Tailwind | [wallet-gpt](https://wallet-gpt.arthprajapati.com) | [GitHub](https://github.com/user-64bit/wallet-gpt) |
-| **PollChain** | Fully decentralized voting system on Solana | Rust, Solana, Next.js, TS, Tailwind | [pollchain](https://pollchain.arthprajapati.com) | [GitHub](https://github.com/user-64bit/poll-chain) |
-| **DAOnation** | Web3 micro-payment platform for creators | Solana, Next.js, TS, Tailwind | [daonation.xyz](https://daonation.xyz) | [GitHub](https://github.com/user-64bit/DAOnation) |
-| **Notebook** | Open-source Notion alternative with privacy focus | Convex, Next.js, TS, Tailwind | [notebook](https://notebook.arthprajapati.com) | [GitHub](https://github.com/user-64bit/notebook) |
-| **Get Git** | GitHub activity explorer with fancy UI | GitHub API, Next.js | [get-git](https://get-git.arthprajapati.com) | [GitHub](https://github.com/user-64bit/Get-Git) |
+| **Wallet-GPT** | AI-powered wallet that executes crypto commands like “send 0.1 SOL” | Next.js, OpenAI, Solana, TS, Tailwind | [wallet-gpt](https://drive.google.com/file/d/1OtvBZVGXO_vaNylcZh6dycAGGuIpfeoJ/view?usp=sharing) | [GitHub](https://github.com/user-64bit/wallet-gpt) |
+| **PollChain** | Fully decentralized voting system on Solana | Rust, Solana, Next.js, TS, Tailwind | [pollchain](https://poll-chain.vercel.app) | [GitHub](https://github.com/user-64bit/poll-chain) |
+| **DAOnation** | Web3 micro-payment platform for creators | Solana, Next.js, TS, Tailwind | [daonation](https://daonation.vercel.app) | [GitHub](https://github.com/user-64bit/DAOnation) |
+| **Notebook** | Open-source Notion alternative with privacy focus | Convex, Next.js, TS, Tailwind | [notebook](https://notebook-self-phi.vercel.app) | [GitHub](https://github.com/user-64bit/notebook) |
+| **Get Git** | GitHub activity explorer with fancy UI | GitHub API, Next.js | [get-git](https://get-git.user-64bit.wtf) | [GitHub](https://github.com/user-64bit/Get-Git) |
 | **Suchi** | Rust CLI for organizing thoughts and tasks | Rust | [crates.io](https://crates.io/crates/suchi) | [GitHub](https://github.com/user-64bit/suchi) |
 | **CryptoCompass** | Multi-chain asset tracker | Next.js, TS, Tailwind | — | [GitHub](https://github.com/user-64bit/CryptoCompass) |
 | **CodeRunner** | Minimal in-browser REPL for quick testing | React, Express, Tailwind | — | [GitHub](https://github.com/user-64bit/CodeRunner) |
@@ -23,5 +23,5 @@ Obsessed with clean architecture, developer tooling, and shaping the future of o
 
 ## 🔎 More?
 
-> View all my PRs, reviews & open-source work on [Get Git](https://get-git-sigma.vercel.app/user-64bit)
+> View all my PRs, reviews & open-source work on [Get Git](https://get-git.user64bit.wtf/user-64bit)
 
