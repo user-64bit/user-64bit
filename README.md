@@ -1,6 +1,6 @@
-> **Full-stack engineer** building minimal, privacy-first products where **Rust, Solana, and AI** collide.
-> Creator of **RugPulse**, **GetToasted**, **GhostTip**, **DevDNA**, and **Wallet-GPT** — deterministic systems for noisy, on-chain worlds.
-> Obsessed with clean architecture, real-time data pipelines, developer tooling, and shaping the future of open, user-owned platforms.
+> I build things that probably shouldn't exist yet — **privacy-first**, **on-chain**, and quietly opinionated.
+> **Rust** for the parts that can't fail. **Solana** for the parts that move fast. **AI** for the parts no one else wants to think about.
+> Ships real products. Reads the mempool for fun. Believes the best systems are the ones users never have to think about.
 
 <h1 align="center">🛠️ Proof of Work</h1>
 
@@ -17,8 +17,8 @@
 | **RugPulse** | Real-time Solana new-token intel — pulls fresh launches, enriches with security/holder/OHLCV data, scores deterministically, surfaces a trader-readable verdict | Next.js · TS · Birdeye · Tailwind | 🟢 [rugpulse.user64bit.wtf](https://rugpulse.user64bit.wtf) | [↗](https://github.com/user-64bit/RugPulse) |
 | **GetToasted** | Scans any Solana wallet for sandwich attacks and quantifies MEV loss in USD — Helius webhooks + BullMQ workers + Jupiter pricing | Next.js · TS · Helius · BullMQ · Jupiter | 🟢 [gettoasted.fun](https://gettoasted.fun) | [↗](https://github.com/user-64bit/GetToasted) |
 | **GhostTip** | Privacy-first social tipping — tip any X handle, X-OAuth gated claim, auto-refund if unclaimed | Next.js · Solana · Prisma · Loyal Network | 🟢 [ghost-tip.vercel.app](https://ghost-tip.vercel.app) | [↗](https://github.com/user-64bit/Ghost-Tip) |
-| **Wallet-GPT** | AI-powered wallet that executes natural-language crypto commands ("send 0.1 SOL to alice") | Next.js · OpenAI · Solana · TS · Tailwind | 🟢 [wallet-gpt.arthprajapati.com](https://wallet-gpt.arthprajapati.com) | [↗](https://github.com/user-64bit/wallet-gpt) |
-| **PollChain** | Fully on-chain decentralized voting system on Solana | Rust · Anchor · Solana · Next.js · TS | 🟢 [pollchain.arthprajapati.com](https://pollchain.arthprajapati.com) | [↗](https://github.com/user-64bit/poll-chain) |
+| **Wallet-GPT** | AI-powered wallet that executes natural-language crypto commands ("send 0.1 SOL to alice") | Next.js · OpenAI · Solana · TS · Tailwind | 🟢 [wallet-gpt-prod.vercel.app](https://wallet-gpt-prod.vercel.app) | [↗](https://github.com/user-64bit/wallet-gpt) |
+| **PollChain** | Fully on-chain decentralized voting system on Solana | Rust · Anchor · Solana · Next.js · TS | 🟢 [poll-chain.vercel.app](https://poll-chain.vercel.app/) | [↗](https://github.com/user-64bit/poll-chain) |
 | **DAOnation** | Web3 micro-tipping platform — a decentralized "Buy Me a Coffee" for creators | Solana · Next.js · TS · Tailwind | 🟢 [daonation.vercel.app](https://daonation.vercel.app) | [↗](https://github.com/user-64bit/DAOnation) |
 
 ---
@@ -41,7 +41,7 @@
 | **TweetFolio** ⭐9 | Twitter/X-styled portfolio site — share work as a feed | Next.js · TS · Tailwind | 🟢 [user64bit.wtf](https://user64bit.wtf) | [↗](https://github.com/user-64bit/The-Tweetfolio) |
 | **Get Git** | GitHub activity explorer with a fancy, interactive UI | Next.js · GitHub API · TS | 🟢 [get-git.user64bit.wtf](https://get-git.user64bit.wtf) | [↗](https://github.com/user-64bit/get-git) |
 | **cry-on-crash** | VS Code extension — plays a sound when terminal commands fail or new diagnostics appear | TypeScript · VS Code API | — | [↗](https://github.com/user-64bit/cry-on-crash) |
-| **Notebook** | Open-source Notion alternative with a privacy focus | Next.js · Convex · TS · Tailwind | 🟢 [notebook.arthprajapati.com](https://notebook.arthprajapati.com) | [↗](https://github.com/user-64bit/notebook) |
+| **Notebook** | Open-source Notion alternative with a privacy focus | Next.js · Convex · TS · Tailwind | 🟢 [notebook-self-phi.vercel.app](https://notebook-self-phi.vercel.app/) | [↗](https://github.com/user-64bit/notebook) |
 | **Suchi** | Minimalist Rust CLI for organizing thoughts and tasks | Rust | 📦 [crates.io](https://crates.io/crates/suchi) | [↗](https://github.com/user-64bit/suchi) |
 | **Echo GPT** | Chrome extension to bookmark & pin ChatGPT conversations | TS · Chrome APIs | — | [↗](https://github.com/user-64bit/echo-gpt) |
 | **Job Not Finished** | A wake-up call dashboard for your abandoned GitHub repos | Next.js 15 · GitHub API · TS | 🟢 [job-not-finished.vercel.app](https://job-not-finished.vercel.app) | [↗](https://github.com/user-64bit/job-not-finished) |
