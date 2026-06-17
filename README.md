@@ -9,10 +9,11 @@
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
+| **Khaata** | Non-custodial USDC point-of-sale & merchant ledger on Solana — UPI-grade checkout, ~1.4s settlement straight to the merchant's own wallet, every receipt verifiable on-chain | Next.js 16 · Rust · Anchor · Drizzle · Postgres · Tailwind | [Live](https://khaata-orcin.vercel.app) · [Repo](https://github.com/user-64bit/Khaata) |
+| **Praxis** | Conversational Solana agent — plain-language intent ("send 0.5 SOL to maya") becomes a simulated on-chain action, while the Aegis program enforces spend caps, allow-lists & expiry on-chain before value moves | Next.js · Rust · Anchor · Gemini · TS | [Live](https://usepraxis.fun) · [Repo](https://github.com/user-64bit/Praxis) |
 | **RugPulse** | Real-time Solana new-token intel — pulls fresh launches, enriches with security/holder/OHLCV data, scores deterministically, surfaces a trader-readable verdict | Next.js · TS · Birdeye · Tailwind | [Live](https://rugpulse.user64bit.wtf) · [Repo](https://github.com/user-64bit/RugPulse) |
 | **GetToasted** | Scans any Solana wallet for sandwich attacks and quantifies MEV loss in USD — Helius webhooks + BullMQ workers + Jupiter pricing | Next.js · TS · Helius · BullMQ · Jupiter | [Live](https://gettoasted.fun) · [Repo](https://github.com/user-64bit/GetToasted) |
 | **GhostTip** | Privacy-first social tipping — tip any X handle, X-OAuth gated claim, auto-refund if unclaimed | Next.js · Solana · Prisma · Loyal Network | [Live](https://ghost-tip.vercel.app) · [Repo](https://github.com/user-64bit/Ghost-Tip) |
-| **Wallet-GPT** | AI-powered wallet that executes natural-language crypto commands ("send 0.1 SOL to alice") | Next.js · OpenAI · Solana · TS · Tailwind | [Live](https://wallet-gpt-prod.vercel.app) · [Repo](https://github.com/user-64bit/wallet-gpt) |
 | **PollChain** | Fully on-chain decentralized voting system on Solana | Rust · Anchor · Solana · Next.js · TS | [Live](https://poll-chain.vercel.app/) · [Repo](https://github.com/user-64bit/poll-chain) |
 | **DAOnation** | Web3 micro-tipping platform — a decentralized "Buy Me a Coffee" for creators | Solana · Next.js · TS · Tailwind | [Live](https://daonation.vercel.app) · [Repo](https://github.com/user-64bit/DAOnation) |
 
@@ -33,7 +34,7 @@
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **TweetFolio** ⭐9 | Twitter/X-styled portfolio site — share work as a feed | Next.js · TS · Tailwind | [Live](https://user64bit.wtf) · [Repo](https://github.com/user-64bit/The-Tweetfolio) |
+| **TweetFolio** | Twitter/X-styled portfolio site — share work as a feed | Next.js · TS · Tailwind | [Live](https://user64bit.wtf) · [Repo](https://github.com/user-64bit/The-Tweetfolio) |
 | **Get Git** | GitHub activity explorer with a fancy, interactive UI | Next.js · GitHub API · TS | [Live](https://get-git.user64bit.wtf) · [Repo](https://github.com/user-64bit/get-git) |
 | **cry-on-crash** | VS Code extension — plays a sound when terminal commands fail or new diagnostics appear | TypeScript · VS Code API | [Repo](https://github.com/user-64bit/cry-on-crash) |
 | **Notebook** | Open-source Notion alternative with a privacy focus | Next.js · Convex · TS · Tailwind | [Live](https://notebook-self-phi.vercel.app/) · [Repo](https://github.com/user-64bit/notebook) |
