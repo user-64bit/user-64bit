@@ -25,6 +25,7 @@
 |---|---|---|---|
 | **DevDNA** | Cinematic GitHub profile analyzer — generates an animated developer identity report | Next.js · TS · Tailwind · framer-motion | [Live](https://dev-dna-theta.vercel.app) · [Repo](https://github.com/user-64bit/dev-dna) |
 | **DD-Agent** | AI health agent inspired by Bryan Johnson's *Don't Die* blueprint — chat + structured longevity plans | Next.js · OpenAI · TS · Tailwind | [Live](https://dd-agent-ruby.vercel.app) · [Repo](https://github.com/user-64bit/dd-agent) |
+| **Ask Genie** | Privacy-first Chrome extension (MV3) — summon a genie lamp on any page to chat with AI grounded in what you're reading; bring your own key, no backend | Vite · React · TS · OpenAI · Anthropic | [Repo](https://github.com/user-64bit/ask-genie) |
 | **Legal Sahayak** | MCP server for Indian legal assistance — Puch AI / Claude compatible | Python · MCP · FastAPI | [Repo](https://github.com/user-64bit/legal-sahayak-mcp) |
 | **RAG-PDF** | Django API to upload PDFs and ask cited questions over their contents | Django · ChromaDB · OpenAI | [Repo](https://github.com/user-64bit/rag-pdf) |
 
@@ -41,6 +42,7 @@
 | **Suchi** | Minimalist Rust CLI for organizing thoughts and tasks | Rust | [Crate](https://crates.io/crates/suchi) · [Repo](https://github.com/user-64bit/suchi) |
 | **Echo GPT** | Chrome extension to bookmark & pin ChatGPT conversations | TS · Chrome APIs | [Repo](https://github.com/user-64bit/echo-gpt) |
 | **Job Not Finished** | A wake-up call dashboard for your abandoned GitHub repos | Next.js 15 · GitHub API · TS | [Live](https://job-not-finished.vercel.app) · [Repo](https://github.com/user-64bit/job-not-finished) |
+| **ChibiTown** | Cozy 2D virtual town for your team — pick a character, walk a pixel-art room, and watch everyone move in real time over WebSocket presence; create a room, share the ID, people walk in | React · TS · Phaser · Express · Prisma · WebSocket · Turborepo | [Demo](https://youtu.be/Whr1wNQ97Tc) · [Repo](https://github.com/user-64bit/ChibiTown) |
 
 ---
 
