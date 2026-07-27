@@ -9,13 +9,13 @@
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **Khaata** | Non-custodial USDC point-of-sale & merchant ledger on Solana — UPI-grade checkout, ~1.4s settlement straight to the merchant's own wallet, every receipt verifiable on-chain | Next.js 16 · Rust · Anchor · Drizzle · Postgres · Tailwind | [Live](https://khaata-orcin.vercel.app) · [Repo](https://github.com/user-64bit/Khaata) |
-| **Praxis** | Conversational Solana agent — plain-language intent ("send 0.5 SOL to maya") becomes a simulated on-chain action, while the Aegis program enforces spend caps, allow-lists & expiry on-chain before value moves | Next.js · Rust · Anchor · Gemini · TS | [Live](https://usepraxis.fun) · [Repo](https://github.com/user-64bit/Praxis) |
-| **RugPulse** | Real-time Solana new-token intel — pulls fresh launches, enriches with security/holder/OHLCV data, scores deterministically, surfaces a trader-readable verdict | Next.js · TS · Birdeye · Tailwind | [Live](https://rugpulse.user64bit.wtf) · [Repo](https://github.com/user-64bit/RugPulse) |
-| **GetToasted** | Scans any Solana wallet for sandwich attacks and quantifies MEV loss in USD — Helius webhooks + BullMQ workers + Jupiter pricing | Next.js · TS · Helius · BullMQ · Jupiter | [Live](https://gettoasted.fun) · [Repo](https://github.com/user-64bit/GetToasted) |
-| **GhostTip** | Privacy-first social tipping — tip any X handle, X-OAuth gated claim, auto-refund if unclaimed | Next.js · Solana · Prisma · Loyal Network | [Live](https://ghost-tip.vercel.app) · [Repo](https://github.com/user-64bit/Ghost-Tip) |
-| **PollChain** | Fully on-chain decentralized voting system on Solana | Rust · Anchor · Solana · Next.js · TS | [Live](https://poll-chain.vercel.app/) · [Repo](https://github.com/user-64bit/poll-chain) |
-| **DAOnation** | Web3 micro-tipping platform — a decentralized "Buy Me a Coffee" for creators | Solana · Next.js · TS · Tailwind | [Live](https://daonation.vercel.app) · [Repo](https://github.com/user-64bit/DAOnation) |
+| **Khaata** | Non-custodial USDC point-of-sale & merchant ledger on Solana — UPI-grade checkout, ~1.4s settlement straight to the merchant's own wallet, every receipt verifiable on-chain | Next.js 16 · Rust · Anchor · Drizzle · Postgres · Tailwind | [Live](https://khaata-orcin.vercel.app) · [Repo](https://github.com/0xuser64bit/Khaata) |
+| **Praxis** | Conversational Solana agent — plain-language intent ("send 0.5 SOL to maya") becomes a simulated on-chain action, while the Aegis program enforces spend caps, allow-lists & expiry on-chain before value moves | Next.js · Rust · Anchor · Gemini · TS | [Live](https://usepraxis.fun) · [Repo](https://github.com/0xuser64bit/Praxis) |
+| **RugPulse** | Real-time Solana new-token intel — pulls fresh launches, enriches with security/holder/OHLCV data, scores deterministically, surfaces a trader-readable verdict | Next.js · TS · Birdeye · Tailwind | [Live](https://rugpulse.user64bit.wtf) · [Repo](https://github.com/0xuser64bit/RugPulse) |
+| **GetToasted** | Scans any Solana wallet for sandwich attacks and quantifies MEV loss in USD — Helius webhooks + BullMQ workers + Jupiter pricing | Next.js · TS · Helius · BullMQ · Jupiter | [Live](https://gettoasted.fun) · [Repo](https://github.com/0xuser64bit/GetToasted) |
+| **GhostTip** | Privacy-first social tipping — tip any X handle, X-OAuth gated claim, auto-refund if unclaimed | Next.js · Solana · Prisma · Loyal Network | [Live](https://ghost-tip.vercel.app) · [Repo](https://github.com/0xuser64bit/Ghost-Tip) |
+| **PollChain** | Fully on-chain decentralized voting system on Solana | Rust · Anchor · Solana · Next.js · TS | [Live](https://poll-chain.vercel.app/) · [Repo](https://github.com/0xuser64bit/poll-chain) |
+| **DAOnation** | Web3 micro-tipping platform — a decentralized "Buy Me a Coffee" for creators | Solana · Next.js · TS · Tailwind | [Live](https://daonation.vercel.app) · [Repo](https://github.com/0xuser64bit/DAOnation) |
 
 ---
 
@@ -23,11 +23,11 @@
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **DevDNA** | Cinematic GitHub profile analyzer — generates an animated developer identity report | Next.js · TS · Tailwind · framer-motion | [Live](https://dev-dna-theta.vercel.app) · [Repo](https://github.com/user-64bit/dev-dna) |
-| **DD-Agent** | AI health agent inspired by Bryan Johnson's *Don't Die* blueprint — chat + structured longevity plans | Next.js · OpenAI · TS · Tailwind | [Live](https://dd-agent-ruby.vercel.app) · [Repo](https://github.com/user-64bit/dd-agent) |
-| **Ask Genie** | Privacy-first Chrome extension (MV3) — summon a genie lamp on any page to chat with AI grounded in what you're reading; bring your own key, no backend | Vite · React · TS · OpenAI · Anthropic | [Repo](https://github.com/user-64bit/ask-genie) |
-| **Legal Sahayak** | MCP server for Indian legal assistance — Puch AI / Claude compatible | Python · MCP · FastAPI | [Repo](https://github.com/user-64bit/legal-sahayak-mcp) |
-| **RAG-PDF** | Django API to upload PDFs and ask cited questions over their contents | Django · ChromaDB · OpenAI | [Repo](https://github.com/user-64bit/rag-pdf) |
+| **DevDNA** | Cinematic GitHub profile analyzer — generates an animated developer identity report | Next.js · TS · Tailwind · framer-motion | [Live](https://dev-dna-theta.vercel.app) · [Repo](https://github.com/0xuser64bit/dev-dna) |
+| **DD-Agent** | AI health agent inspired by Bryan Johnson's *Don't Die* blueprint — chat + structured longevity plans | Next.js · OpenAI · TS · Tailwind | [Live](https://dd-agent-ruby.vercel.app) · [Repo](https://github.com/0xuser64bit/dd-agent) |
+| **Ask Genie** | Privacy-first Chrome extension (MV3) — summon a genie lamp on any page to chat with AI grounded in what you're reading; bring your own key, no backend | Vite · React · TS · OpenAI · Anthropic | [Repo](https://github.com/0xuser64bit/ask-genie) |
+| **Legal Sahayak** | MCP server for Indian legal assistance — Puch AI / Claude compatible | Python · MCP · FastAPI | [Repo](https://github.com/0xuser64bit/legal-sahayak-mcp) |
+| **RAG-PDF** | Django API to upload PDFs and ask cited questions over their contents | Django · ChromaDB · OpenAI | [Repo](https://github.com/0xuser64bit/rag-pdf) |
 
 ---
 
@@ -35,14 +35,14 @@
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **TweetFolio** | Twitter/X-styled portfolio site — share work as a feed | Next.js · TS · Tailwind | [Live](https://user64bit.wtf) · [Repo](https://github.com/user-64bit/The-Tweetfolio) |
-| **Get Git** | GitHub activity explorer with a fancy, interactive UI | Next.js · GitHub API · TS | [Live](https://get-git.user64bit.wtf) · [Repo](https://github.com/user-64bit/get-git) |
-| **cry-on-crash** | VS Code extension — plays a sound when terminal commands fail or new diagnostics appear | TypeScript · VS Code API | [Repo](https://github.com/user-64bit/cry-on-crash) |
-| **Notebook** | Open-source Notion alternative with a privacy focus | Next.js · Convex · TS · Tailwind | [Live](https://notebook-self-phi.vercel.app/) · [Repo](https://github.com/user-64bit/notebook) |
-| **Suchi** | Minimalist Rust CLI for organizing thoughts and tasks | Rust | [Crate](https://crates.io/crates/suchi) · [Repo](https://github.com/user-64bit/suchi) |
-| **Echo GPT** | Chrome extension to bookmark & pin ChatGPT conversations | TS · Chrome APIs | [Repo](https://github.com/user-64bit/echo-gpt) |
-| **Job Not Finished** | A wake-up call dashboard for your abandoned GitHub repos | Next.js 15 · GitHub API · TS | [Live](https://job-not-finished.vercel.app) · [Repo](https://github.com/user-64bit/job-not-finished) |
-| **ChibiTown** | Cozy 2D virtual town for your team — pick a character, walk a pixel-art room, and watch everyone move in real time over WebSocket presence; create a room, share the ID, people walk in | React · TS · Phaser · Express · Prisma · WebSocket · Turborepo | [Demo](https://youtu.be/Whr1wNQ97Tc) · [Repo](https://github.com/user-64bit/ChibiTown) |
+| **TweetFolio** | Twitter/X-styled portfolio site — share work as a feed | Next.js · TS · Tailwind | [Live](https://user64bit.wtf) · [Repo](https://github.com/0xuser64bit/The-Tweetfolio) |
+| **Get Git** | GitHub activity explorer with a fancy, interactive UI | Next.js · GitHub API · TS | [Live](https://get-git.user64bit.wtf) · [Repo](https://github.com/0xuser64bit/get-git) |
+| **cry-on-crash** | VS Code extension — plays a sound when terminal commands fail or new diagnostics appear | TypeScript · VS Code API | [Repo](https://github.com/0xuser64bit/cry-on-crash) |
+| **Notebook** | Open-source Notion alternative with a privacy focus | Next.js · Convex · TS · Tailwind | [Live](https://notebook-self-phi.vercel.app/) · [Repo](https://github.com/0xuser64bit/notebook) |
+| **Suchi** | Minimalist Rust CLI for organizing thoughts and tasks | Rust | [Crate](https://crates.io/crates/suchi) · [Repo](https://github.com/0xuser64bit/suchi) |
+| **Echo GPT** | Chrome extension to bookmark & pin ChatGPT conversations | TS · Chrome APIs | [Repo](https://github.com/0xuser64bit/echo-gpt) |
+| **Job Not Finished** | A wake-up call dashboard for your abandoned GitHub repos | Next.js 15 · GitHub API · TS | [Live](https://job-not-finished.vercel.app) · [Repo](https://github.com/0xuser64bit/job-not-finished) |
+| **ChibiTown** | Cozy 2D virtual town for your team — pick a character, walk a pixel-art room, and watch everyone move in real time over WebSocket presence; create a room, share the ID, people walk in | React · TS · Phaser · Express · Prisma · WebSocket · Turborepo | [Demo](https://youtu.be/Whr1wNQ97Tc) · [Repo](https://github.com/0xuser64bit/ChibiTown) |
 
 ---
 
@@ -54,4 +54,4 @@
 
 ## 🔎 Want more?
 
-> Explore every PR, review & open-source contribution on **[Get Git →](https://get-git.user64bit.wtf/user-64bit)**
+> Explore every PR, review & open-source contribution on **[Get Git →](https://get-git.user64bit.wtf/0xuser64bit)**
